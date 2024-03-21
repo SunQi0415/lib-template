@@ -33,7 +33,7 @@
       "mysql": "^2.14.1",
       "reflect-metadata": "^0.1.10",
       "shortid": "^2.2.15",
-      "typeorm": "0.2.22"
+      "typeorm": "0.3.0"
    },
    "devDependencies": {
       "@types/debug": "^4.1.5",
